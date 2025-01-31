@@ -16,7 +16,6 @@
 - **PDF Format**: Converts chapters into high-quality PDFs for easy reading.
 - **Chapter Range Selection**: Download specific chapters or entire series.
 - **Fallback System**: Automatically tries alternative scanlation groups if the primary group fails.
-- **Ko-fi Support**: Support the developer with a coffee! ☕
 
 ---
 
